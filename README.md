@@ -1,6 +1,6 @@
 # Unified Field Theory
 
-## Chinese
+## 中文
 
 1. 张祥前揭秘外星人的飞碟之谜.docx
 2. 研发人工场扫描技术的申请报告.docx
@@ -27,3 +27,9 @@
 3. Unified Field Theory - York University Edition - Canada.pdf
 4. Profile of Xiangqian Zhang a farmer from Anhui Province.pdf
 5. I Found Two Online Portraits Very Similar to the Guoker Aline.pdf
+
+
+
+## 日语
+
+1. 方法公表：変化する電磁場が引力場に.docx
