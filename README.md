@@ -26,10 +26,9 @@
 
 1. The Adventure on Planet Guoker.pdf
 2. Summary of Zhangs Unified Field Theory.pdf
-3. Unified Field Theory - York University Edition - Canada.pdf
-4. Profile of Xiangqian Zhang a farmer from Anhui Province.pdf
-5. I Found Two Online Portraits Very Similar to the Guoker Aline.pdf
-6. The experiment of changing electromagnetic fields generating gravitational fields at low voltages.docx
+3. Profile of Xiangqian Zhang a farmer from Anhui Province.pdf
+4. I Found Two Online Portraits Very Similar to the Guoker Aline.pdf
+5. The experiment of changing electromagnetic fields generating gravitational fields at low voltages.docx
 
 
 
